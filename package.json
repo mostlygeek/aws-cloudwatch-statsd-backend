@@ -8,8 +8,7 @@
 	"fmt": "~0.4",
 	"awssum": "~1.0.0-beta",
 	"awssum-amazon-cloudwatch": "~1.0.0",
-	"underscore": "1.4.3",
-	"combinations": "0.1.0"
+        "get-iam-creds": "git://github.com/mostlygeek/get-iam-creds.git"
   },
   "devDependencies": {},
   "optionalDependencies": {},
