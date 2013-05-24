@@ -6,9 +6,8 @@
   "main": "lib/aws-cloudwatch-statsd-backend.js",
   "dependencies": {
 	"fmt": "~0.4",
-	"awssum": "~1.0.0-beta",
 	"awssum-amazon-cloudwatch": "~1.0.0",
-        "get-iam-creds": "git://github.com/mostlygeek/get-iam-creds.git"
+	"awssum-amazon-imd": "~1.0.0"
   },
   "devDependencies": {},
   "optionalDependencies": {},
